@@ -12,7 +12,7 @@ For more detailed information on CODEOWNERS, visit [CloudAvail's own wiki articl
 - The `CODEOWNERS` file is located in the directory `.github/` 
 - This repo, contains two directories:
     * `important_files` 
-    * `not_important_files`
+    * `unimportant_files`
     
 
 
@@ -20,7 +20,7 @@ For more detailed information on CODEOWNERS, visit [CloudAvail's own wiki articl
 
 CODEOWNERS has been configured to restrict updates to the `important_files` directory.
 
-- You *should* be able to edit the files in `not_important_files` and merge them without any problems
+- You *should* be able to edit the files in `unimportant_files` and merge them without any problems
 - You *should not* be able to merge changes to the `important_files` directory without review/approval from @jepowers
 
 
